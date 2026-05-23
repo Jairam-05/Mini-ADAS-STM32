@@ -1,1 +1,2 @@
 # Mini-ADAS-STM32
+Mini Advanced Driver Assistance System (ADAS) is a real-time embedded safety system built using STM32 and Embedded C that simulates modern vehicle assistance features. The system integrates ultrasonic sensing for obstacle detection, accelerometer-based collision monitoring, adaptive lighting using LDR sensors, and an OLED display for real-time status visualization. It implements autonomous braking, sensor fusion, and real-time control using PWM, ADC, I2C, UART, and SSD1306 OLED interfacing through STM32CubeIDE.
